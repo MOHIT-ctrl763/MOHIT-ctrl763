@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm Arman Alam</h1>
+<h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center"> Full Stack Web Developer | JavaScript Enthusiast</h3>
 
 <p align="center">
@@ -10,14 +10,13 @@
 
 ## 👋 Introduction
 
-I’m **Arman Alam**, a passionate **Web Developer** focused on building modern, responsive, and user-friendly web applications.  
+I’m **Mohit**, a passionate **Web Developer** focused on building modern, responsive, and user-friendly web applications.  
 I aim to grow into a **top-tier full stack developer** and create impactful digital products.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BCA Student (2nd Year)
 - 💻 Strong in **HTML, CSS, JavaScript (ES6)**
 - ⚡ Experience with **GSAP animations & UI design**
 - 🌱 Currently learning **React.js & Backend Development**
@@ -114,27 +113,3 @@ I aim to grow into a **top-tier full stack developer** and create impactful digi
   Passionate Web Developer 🚀
 </p>
 
----
-
-## 👋 Introduction
-
-I'm Mohit Porwal, a passionate web developer focused on building modern, responsive, and user-friendly web applications.
-
-## 🚀 About Me
-
-- 🎓 BCA Student
-- 💻 Strong in HTML, CSS, JavaScript, React
-- ⚡ Learning Backend Development
-- 🎯 Goal: Become a Full Stack Developer
-
-## 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
-## 📫 Connect with me
-
-- LinkedIn: Your LinkedIn URL
-- Portfolio: Your Portfolio URL

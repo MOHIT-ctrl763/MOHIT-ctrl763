@@ -51,28 +51,28 @@ I aim to grow into a **top-tier full stack developer** and create impactful digi
 ### 🛒 E-commerce UI Clone
 - 🔹 Modern shopping UI inspired by Myntra  
 - ⚙️ Tech: HTML, CSS, JavaScript  
-- 🔗 https://github.com/Armanalam7790
+- 🔗 https://github.com/MOHIT-ctrl763
 
 ---
 
 ### 🎵 Music Player UI
 - 🔹 Interactive UI with animations  
 - ⚙️ Tech: React, Tailwind, GSAP  
-- 🔗 https://github.com/Armanalam7790
+- 🔗 https://github.com/MOHIT-ctrl763
 
 ---
 
 ### 🎨 Animated Landing Page
 - 🔹 Smooth animations with GSAP  
 - ⚙️ Tech: HTML, CSS, GSAP  
-- 🔗 https://github.com/Armanalam7790
+- 🔗 https://github.com/MOHIT-ctrl763
 
 ---
 
 ### 🧩 UI Component Library
 - 🔹 Reusable components for faster development  
 - ⚙️ Tech: React, JavaScript  
-- 🔗 https://github.com/Armanalam7790
+- 🔗 https://github.com/MOHIT-ctrl763
 
 ---
 

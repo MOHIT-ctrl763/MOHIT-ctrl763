@@ -103,13 +103,3 @@ I aim to grow into a **top-tier full stack developer** and create impactful digi
 💡 I love turning **simple ideas into beautiful web experiences** — and I enjoy debugging more than most people 😄
 
 ---
-
-<p align="center">
-  ⭐ *"Consistency + Smart Work = Success in Tech"* ⭐
-</p><h1 align="center">Hi 👋, I'm Mohit Porwal</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack</h3>
-
-<p align="center">
-  Passionate Web Developer 🚀
-</p>
-
